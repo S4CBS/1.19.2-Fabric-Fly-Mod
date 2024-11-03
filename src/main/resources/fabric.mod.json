@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "yanesfly",
+  "version": "1.0.0",
+  "name": "YanesFly",
+  "authors": [
+    "S4CBS"
+  ],
+  "contact": {
+    "homepage": "https://github.com/S4CBS/1.19.2-Fabric-Fly-Mod",
+    "sources": "https://github.com/S4CBS/1.19.2-Fabric-Fly-Mod"
+  },
+  "license": "MIT",
+  "icon": "assets/yanesfly/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ru.yanes.yanesfly.YanesflyMod"
+    ],
+    "client": [
+      "ru.yanes.yanesfly.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}

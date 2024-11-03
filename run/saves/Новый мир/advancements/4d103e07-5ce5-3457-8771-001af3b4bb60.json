@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2024-11-03 15:25:59 +0300",
+      "minecraft:beach": "2024-11-03 15:26:22 +0300",
+      "minecraft:river": "2024-11-03 15:26:07 +0300",
+      "minecraft:old_growth_birch_forest": "2024-11-03 15:26:14 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
